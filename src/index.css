@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+h1{
+    font-family: "Philosopher", sans-serif;
+  }
+  
+  h2{  
+    font-family: "Montserrat", serif;
+  }
